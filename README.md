@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Padilla</h1>
-<h3 align="center">Software Developer at Universidad Simón Bolívar</h3>
+<h3 align="center">Software Developer</h3>
 
 <br>
 
