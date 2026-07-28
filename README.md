@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Padilla</h1>
-<h3 align="center">Infrastructure & Cloud Engineer | Microsoft 365 | Active Directory | Google Cloud Certified</h3>
+<h3 align="center">Cloud & Infrastructure Engineer | GCP Certified (ACE) | Linux, IaC & Automation | Transitioning to DevOps</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="isaac-padilla" /></p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/isaac-padilla-9a12b81b1/" target="blank">
+  <a href="https://www.linkedin.com/in/isaacpadilla-ing/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="isaac padilla" height="30" width="40" />
