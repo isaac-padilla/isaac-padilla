@@ -65,11 +65,10 @@
 
 ---
 
-### 📊 Statistical Data:
+### 📊 GitHub Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaac-padilla&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="Isaac Padilla GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-padilla&theme=dark&background=0d1117" alt="Isaac Padilla Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-padilla&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="isaac-padilla streak" />
 </p>
 
 ---
