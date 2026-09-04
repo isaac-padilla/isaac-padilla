@@ -63,5 +63,5 @@ Systems Engineer with hands-on experience ensuring operational continuity, syste
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Isaac Padilla](https://www.linkedin.com) *(Reemplaza con tu URL)*
+- **LinkedIn:** [Isaac Padilla](https://www.linkedin.com/in/isaacpadilla-ing/)
 - **Core Repository:** 🛠️ [infrastructure-and-automation-labs](https://github.com/isaac-padilla/infrastructure-and-automation-labs)
