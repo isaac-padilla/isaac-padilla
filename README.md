@@ -94,19 +94,7 @@
   Desarrollo de un monitor de recursos en tiempo real construido desde cero. Parsea métricas directamente desde `/proc`, `free`, `df` y `ps -eo` emulando el comportamiento de `htop` sin dependencias de terceros.
 
 ---
-
 ### 📊 GitHub Metrics & Statistics:
-
-<p align="center">
-  <a href="https://github.com/isaac-padilla">
-    <img src="https://github-readme-stats.vercel.app/api?username=isaac-padilla&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-  </a>
-  <a href="https://github.com/isaac-padilla">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-padilla&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" width="48%" />
-  </a>
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=isaac-padilla&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0d1117&ring=02D9F7&fire=02D9F7&currStreakNum=02D9F7" alt="GitHub Streak" />
@@ -116,11 +104,13 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
 
 ### 🎓 Education & Credentials:
 
@@ -133,3 +123,4 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02D9F7&height=120&section=footer"/>
 </div>
+
