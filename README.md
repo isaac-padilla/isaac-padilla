@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <b>Ingeniero de Sistemas</b> con más de 2 años de experiencia diseñando, automatizando y administrando infraestructura crítica en entornos híbridos (Cloud & On-Premise) para los sectores <b>financiero, retail masivo y minería</b>. Enfocado en garantizar alta disponibilidad (SLA > 99.9%), optimización de costos mediante arquitecturas Open-Source y la transición hacia la Infraestructura como Código (IaC).
+  <b>Ingeniero de Sistemas</b> con más de 2 años de experiencia diseñando, automatizando y administrando infraestructura crítica en entornos híbridos (Cloud & On-Premise) para los sectores <b>financiero, retail masivo, automotriz y minería</b>. Enfocado en garantizar alta disponibilidad (SLA > 99.9%), optimización de costos mediante arquitecturas Open-Source y la transición hacia la Infraestructura como Código (IaC).
   <br><br>
-  📍 <i>Barranquilla, Atlántico, Colombia</i>
+  📍 <i>Barranquilla / Sabanalarga, Atlántico, Colombia</i>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🚀 Key Highlights & Experience
 
 - ☁️ **Google Cloud Certified:** Associate Cloud Engineer (ACE) *(Ene 2026 – Ene 2029)*.
-- 💼 **Infraestructura Crítica:** Analista de Soporte e Infraestructura TI en el sector financiero (*Acciones y Valores S.A.*). Previamente, gestión y despliegue de infraestructura en *Olímpica S.A.* y *Compañía 7R*.
+- 💼 **Liderazgo e Infraestructura Crítica:** Analista de Soporte e Infraestructura TI en el sector financiero (*Acciones y Valores S.A.*) y Director de Tecnología & Operaciones Digitales en *Andri Racing*.
 - 🐧 **Linux & Virtualization Specialist:** Administración avanzada de Ubuntu, OpenSUSE, Debian y orquestación de clústeres VMware vSphere (ESXi/vCenter).
 - 🔑 **IAM, Seguridad & Movilidad:** Administración de Active Directory (GPOs, ADManager), Microsoft 365, Tailscale VPN Mesh y gestión de +2,000 endpoints con AppLivery MDM.
 - ⚙️ **Automation & DevOps:** Infraestructura como Código con Terraform, orquestación con Docker Compose y automatización profunda con Bash Shell Scripting.
@@ -84,34 +84,30 @@
 
 ### 🛠️ Featured Projects & HomeLabs
 
-* **[Private Cloud & Local AI (HomeLab)](https://github.com/isaac-padilla)**  
-  Infraestructura autohospedada corriendo sobre Ubuntu Server y CasaOS. Integración de inferencia local con **Llama 3.2 (1B)** vía Open WebUI, protegida por VPN Mesh (Tailscale) para acceso remoto seguro sin apertura de puertos.
-* **[Self-Hosted Media & Automation Ecosystem](https://github.com/isaac-padilla)**  
-  Orquestación con **Docker Compose** (Jellyfin, Sonarr, Radarr, Prowlarr) con políticas de resiliencia ante fallos eléctricos (`Restore on AC Power Loss` & `restart: always`) y gestión avanzada de volúmenes compartidos en Linux.
-* **[Linux Server Health Monitor (Raw Bash)](https://github.com/isaac-padilla/infrastructure-and-automation-labs)**  
-  Creación de un monitor de recursos en tiempo real construido desde cero en Bash. Parsea métricas directamente desde `/proc`, `free`, `df` y `ps -eo` emulando el comportamiento de `htop` sin dependencias de terceros.
+* **[Transformación Tecnológica - Tecnicentro Andri Racing](https://andriracing.com/)**  
+  Como Director de Tecnología & Operaciones Digitales, lideré la reestructuración TI total de la empresa. Implementación de canales de comunicación oficiales (correos corporativos), despliegue de plataforma web y formalización operativa de la cadena de suministros tecnológicos.
+* **[Self-Hosted Remote Support (RustDesk on Ubuntu Server)](#)**  
+  Diseño y despliegue de un servidor de soporte remoto Open-Source (RustDesk) sobre Linux. Este proyecto eliminó el 100% de los costos de licenciamiento de software propietario (como AnyDesk), garantizando privacidad, seguridad y control total de la infraestructura.
+* **[Private Cloud & Local AI Ecosystem](https://github.com/isaac-padilla)**  
+  Infraestructura autohospedada corriendo sobre Ubuntu Server. Integración de inferencia local con **Llama 3.2 (1B)**, orquestación multimedia con **Docker Compose** y protección de acceso remoto seguro sin apertura de puertos mediante **Tailscale VPN Mesh**.
+* **[Linux Server Health Monitor (Raw Bash Scripting)](https://github.com/isaac-padilla/infrastructure-and-automation-labs)**  
+  Desarrollo de un monitor de recursos en tiempo real construido desde cero. Parsea métricas directamente desde `/proc`, `free`, `df` y `ps -eo` emulando el comportamiento de `htop` sin dependencias de terceros.
 
 ---
 
 ### 📊 GitHub Metrics & Statistics:
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=isaac-padilla&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Isaac Padilla github stats" width="48%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-padilla&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" alt="Top Languages" width="48%" />
-</div> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaac-padilla&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Isaac Padilla github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-padilla&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=isaac-padilla&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0d1117&ring=02D9F7&fire=02D9F7&currStreakNum=02D9F7" alt="GitHub Streak" />
-</div>
+</p>
 
-<!-- 
-=======================================================================
-⚠️ LA SERPIENTE ESTÁ OCULTA AQUÍ PARA QUE NO ROMPA TU PERFIL ⚠️
-Si quieres activarla, configura el "snake.yml" en Github Actions y 
-borra estas etiquetas de comentario HTML.
-=======================================================================
 ## 🐛 Contributions Snake
 <div align="center">
   <picture>
@@ -120,9 +116,6 @@ borra estas etiquetas de comentario HTML.
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
--->
-
----
 
 ### 🎓 Education & Credentials:
 
