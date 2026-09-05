@@ -98,8 +98,12 @@
 ### 📊 GitHub Metrics & Statistics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaac-padilla&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Isaac Padilla github stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-padilla&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/isaac-padilla">
+    <img src="https://github-readme-stats.vercel.app/api?username=isaac-padilla&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+  </a>
+  <a href="https://github.com/isaac-padilla">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-padilla&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" width="48%" />
+  </a>
 </p>
 
 <br>
@@ -109,11 +113,12 @@
 </p>
 
 ## 🐛 Contributions Snake
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
