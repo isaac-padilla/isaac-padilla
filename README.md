@@ -90,8 +90,6 @@
   Diseño y despliegue de un servidor de soporte remoto Open-Source. Este proyecto eliminó el 100% de los costos de licenciamiento de software propietario, garantizando privacidad total, endurecimiento (hardening) del servidor y control absoluto de la telemetría.
 * **[Private Cloud & Local AI Ecosystem](https://github.com/isaac-padilla)**  
   Infraestructura autohospedada (HomeLab) corriendo sobre Ubuntu Server. Integración de inferencia local con Llama 3.2 (1B), orquestación multimedia automatizada con Docker Compose y protección de acceso remoto seguro bajo un modelo Zero-Trust mediante Tailscale VPN Mesh.
-* **[Linux Server Health Monitor (Raw Bash Scripting)](https://github.com/isaac-padilla/infrastructure-and-automation-labs)**  
- Linux Server Health Monitor (Raw Bash Scripting): Desarrollo de un monitor de recursos del sistema en tiempo real construido desde cero. El script interactúa directamente con el sistema operativo parseando métricas desde /proc, free, df y ps -eo, emulando la funcionalidad core de htop sin dependencias externas.
 
 ---
 ### 📊 GitHub Metrics & Statistics:
