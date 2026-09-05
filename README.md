@@ -85,13 +85,13 @@
 ### 🛠️ Featured Projects & HomeLabs
 
 * **[Transformación Tecnológica - Tecnicentro Andri Racing](https://andriracing.com/)**  
-  Como Director de Tecnología & Operaciones Digitales, lideré la reestructuración TI total de la empresa. Implementación de canales de comunicación oficiales (correos corporativos), despliegue de plataforma web y formalización operativa de la cadena de suministros tecnológicos.
+  Liderazgo en la reestructuración TI total de la empresa. Despliegue de infraestructura web, integración de correos corporativos y formalización operativa de la cadena de suministros tecnológicos, creando un puente entre las operaciones del taller y la escalabilidad digital.
 * **[Self-Hosted Remote Support (RustDesk on Ubuntu Server)](#)**  
-  Diseño y despliegue de un servidor de soporte remoto Open-Source (RustDesk) sobre Linux. Este proyecto eliminó el 100% de los costos de licenciamiento de software propietario (como AnyDesk), garantizando privacidad, seguridad y control total de la infraestructura.
+  Diseño y despliegue de un servidor de soporte remoto Open-Source. Este proyecto eliminó el 100% de los costos de licenciamiento de software propietario, garantizando privacidad total, endurecimiento (hardening) del servidor y control absoluto de la telemetría.
 * **[Private Cloud & Local AI Ecosystem](https://github.com/isaac-padilla)**  
-  Infraestructura autohospedada corriendo sobre Ubuntu Server. Integración de inferencia local con **Llama 3.2 (1B)**, orquestación multimedia con **Docker Compose** y protección de acceso remoto seguro sin apertura de puertos mediante **Tailscale VPN Mesh**.
+  Infraestructura autohospedada (HomeLab) corriendo sobre Ubuntu Server. Integración de inferencia local con Llama 3.2 (1B), orquestación multimedia automatizada con Docker Compose y protección de acceso remoto seguro bajo un modelo Zero-Trust mediante Tailscale VPN Mesh.
 * **[Linux Server Health Monitor (Raw Bash Scripting)](https://github.com/isaac-padilla/infrastructure-and-automation-labs)**  
-  Desarrollo de un monitor de recursos en tiempo real construido desde cero. Parsea métricas directamente desde `/proc`, `free`, `df` y `ps -eo` emulando el comportamiento de `htop` sin dependencias de terceros.
+ Linux Server Health Monitor (Raw Bash Scripting): Desarrollo de un monitor de recursos del sistema en tiempo real construido desde cero. El script interactúa directamente con el sistema operativo parseando métricas desde /proc, free, df y ps -eo, emulando la funcionalidad core de htop sin dependencias externas.
 
 ---
 ### 📊 GitHub Metrics & Statistics:
