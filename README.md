@@ -35,7 +35,7 @@
 
 * **[Corporate IT Infrastructure & FinOps Optimization](https://andriracing.com/)**  
   End-to-End technological restructuring. Deployed web infrastructure and implemented FinOps strategies (DNS Email Routing) to normalize corporate communications under a custom domain, eliminating 100% of licensing costs for platforms like Google Workspace.
-* **[Secure Remote Support Infrastructure (Zero-Cost)](#)**  
+* **[Secure Remote Support Infrastructure (Zero-Cost)](https://github.com/isaac-padilla/secure-rustdesk-deployment)**  
   Deployment of an Open-Source remote support server (RustDesk) on Linux. Critical focus on security (Hardening) through strict Firewall configuration (UFW) and E2EE encryption, ensuring corporate telemetry and network traffic remain 100% private.
 * **[Self-Hosted Private Cloud & Local AI Infrastructure](https://github.com/isaac-padilla/private-cloud-local-ai)**  
   Design and deployment of a private cloud infrastructure on Ubuntu Server. Orchestrated services using Docker Compose, including a local AI ecosystem (Llama 3.2 1B). Implemented a Zero-Trust secure network with Tailscale for remote access without exposing router ports.
