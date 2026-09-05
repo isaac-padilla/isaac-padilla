@@ -109,7 +109,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaac-padilla/isaac-padilla/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 ---
 
 ### 🎓 Education & Credentials:
