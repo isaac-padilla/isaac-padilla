@@ -70,8 +70,6 @@
   Liderazgo en la reestructuración TI total de la empresa. Despliegue de infraestructura web e integración de correos corporativos optimizando costos (FinOps) mediante enrutamiento DNS, creando un puente entre las operaciones del taller y la escalabilidad digital.
 * **[Infraestructura de Soporte Remoto Seguro (Zero-Cost)](#)**  
   Diseño y despliegue de un servidor de soporte remoto Open-Source (RustDesk) sobre Linux. Este proyecto eliminó el 100% de los costos de licenciamiento, garantizando privacidad total, endurecimiento (hardening) del servidor mediante reglas estrictas de Firewall y control absoluto de la telemetría corporativa.
-* **[Private Cloud & Local AI Ecosystem](https://github.com/isaac-padilla/private-cloud-local-ai)**  
-  Infraestructura autohospedada corriendo sobre Ubuntu Server. Integración de inferencia local con Llama 3.2 (1B), orquestación de servicios en la nube privada con Docker Compose (alojamiento web y almacenamiento de datos) y protección de acceso remoto seguro bajo un modelo Zero-Trust mediante Tailscale VPN Mesh.
 
 ### 🎓 Educación y Credenciales:
 
